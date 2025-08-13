@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EPSILON 3.1 Hub</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    img {
+      max-width: 200px;
+      margin-bottom: 30px;
+    }
+    .button {
+      display: block;
+      margin: 20px auto;
+      padding: 15px 30px;
+      background-color: #fff;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      width: 200px;
+    }
+    .button:hover {
+      background-color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <img src="epsilon-logo.png" alt="Epsilon 3.1 Logo">
+  <a href="https://github.com/E3CoreArchitect/EPSILON-3.1-/blob/main/E31ManualforAll.pdf" class="button">Learn About Epsilon</a>
+  <a href="https://github.com/E3CoreArchitect/EPSILON-3.1-/blob/main/EPSILON%203.1%20Master%20Prompt" class="button">Get the Code</a>
+</body>
+</html>
